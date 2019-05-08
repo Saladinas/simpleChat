@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+input[type=text] {
+  padding:5px; 
+  border:2px solid #ccc; 
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.InputContainer {
+  margin: 5px 0px;
+}
+
+button[type=submit] {
+  padding:5px 15px; 
+  background:#3578e5;
+  color: #444950;
+  border:0 none;
+  cursor:pointer;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  margin-left: 5px;
+}
+
+.ChatBox {
+  width: 20%;
+  margin: auto;
+  border: 1.7px solid black;
+  border-radius: 10px;
+}
+
+.MessageContainer {
+  margin: 5px 5px;
+}
+
+.Nickname {
+  text-decoration: underline;
+}
+
+.Message {
+  border: 2px solid white;
+  border-radius: 10px;
+  margin: 3px 8px;
+  padding: 2.5px;
+}
