@@ -2,7 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+To install dependencies, you need to run below command in both root and client folders:
+
+### `npm install`
+
+In the project rppt directory, you can run:
 
 ### `npm run dev`
 
